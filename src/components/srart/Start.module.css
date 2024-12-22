@@ -1,0 +1,11 @@
+.start{
+    color: white;
+    background-color:rgb(25 187 155);
+    
+}
+.avatar img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+
+}

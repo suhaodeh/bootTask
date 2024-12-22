@@ -1,0 +1,14 @@
+.test{
+    background-color: rgb(25 187 155);
+    color: white;
+    font-size: large;
+}
+.free a{
+    text-decoration: none;
+    color: white;
+    border: solid 2px;
+    border-radius: 5px;
+    padding: 10px ;
+    
+
+}

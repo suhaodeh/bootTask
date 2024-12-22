@@ -1,0 +1,30 @@
+ .h{
+    color:  rgb(58, 74, 91);
+    padding: 5px;
+    margin-top: 30px;
+    font-weight: bolder;
+   
+ }
+ input{
+    width: 50%;
+    padding: 10px;
+    border:none;
+    border-bottom: 2px solid #0000000e;
+    border-radius: 4px;
+    
+}
+
+label{
+    font-weight: bold;
+    color: rgb(132, 129, 129);
+}
+.btn{
+    padding: 20px;
+    border: 1px solid #fcf8f8;
+    border-radius: 5px ;
+    background-color:  rgb(25 187 155);
+    color: white;
+    font-weight: bold;
+
+
+}

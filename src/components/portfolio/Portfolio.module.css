@@ -1,0 +1,12 @@
+.portfolio{
+    color: white;
+    
+}
+.porth2{
+    color:rgb(58, 74, 91)
+}
+.portfolio img{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+}
